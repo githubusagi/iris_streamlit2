@@ -2,8 +2,10 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-from sklearn.linear_model import LogisticRegression
-from sklearn.datasets import load_iris
+from scikit-learn
+.linear_model import LogisticRegression
+from scikit-learn
+.datasets import load_iris
 
 # データセット読み込み
 iris = load_iris()
